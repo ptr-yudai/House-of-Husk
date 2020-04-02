@@ -1,5 +1,5 @@
 /**
- * This is a Proof-of-Concept for House of 
+ * This is a Proof-of-Concept for House of Husk
  * This PoC is supposed to be run with libc-2.27.
  */
 #include <stdio.h>
